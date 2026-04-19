@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Write a Python function that extracts the AWS region from an S3 bucket URI (e.g., 's3://my-bucket-us-west-2/path'). The region is the last hyphen-separated component before the final path segment."
+  },
+  {
+    "task": "Create a JSON object representing an AWS IAM policy that allows a user to read all objects from an S3 bucket named 'my-data-bucket' and list bucket contents."
+  },
+  {
+    "task": "Write a regular expression that validates an AWS EC2 security group ID format (starts with 'sg-' followed by 17 hexadecimal characters or 8 hexadecimal characters)."
+  }
+]
